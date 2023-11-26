@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jerzy</h1>
 <h3 align="center">A passionate developer from GERMANY</h3>
-https://github-readme-stats.vercel.app/api?username=JZSandbox&hide=contribs,prs
+<img src="https://github-readme-stats.vercel.app/api?username=JZSandbox&hide=contribs,prs"/>
 <p align="left">
 </p>
 
