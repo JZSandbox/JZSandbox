@@ -5,7 +5,7 @@ Star this repo18054
 Fork on GitHub5317
 <h1 align="center">Hi 👋, I'm Jerzy</h1>
 <h3 align="center">A passionate developer from GERMANY</h3>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JZSandbox&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JZSandbox&hide=contribs,prs)
 <p align="left">
 </p>
 
